@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.5c8adc6b.css",
+    "main.js": "/Portfolio/static/js/main.75a2ac9e.js",
+    "static/media/boardroom.jpg": "/Portfolio/static/media/boardroom.213404aabc472abd259a.jpg",
+    "static/media/lucknow.jpg": "/Portfolio/static/media/lucknow.12cf46e72e4b7203bf91.jpg",
+    "static/media/profile.jpg": "/Portfolio/static/media/profile.991a3db754120c9bb5b4.jpg",
+    "index.html": "/Portfolio/index.html",
+    "static/media/hero-abstract-light.svg": "/Portfolio/static/media/hero-abstract-light.dbc8213e7ed97411ff7448c3c19ffed1.svg",
+    "main.5c8adc6b.css.map": "/Portfolio/static/css/main.5c8adc6b.css.map",
+    "main.75a2ac9e.js.map": "/Portfolio/static/js/main.75a2ac9e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c8adc6b.css",
+    "static/js/main.75a2ac9e.js"
+  ]
+}
